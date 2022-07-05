@@ -1,0 +1,130 @@
+body{
+    font-size: 14px;
+    background: #e0ebe8;
+}
+
+#top-right-nav{
+    float: right;
+    background: inherit;
+    margin-top: -8rem;
+}
+
+ul{
+    margin-right: 10rem;
+    text-decoration: none;
+}
+
+#top-right-nav ul li{
+    display: inline-block;
+    margin-right: 4rem;
+    font-family: cursive;
+    color: #66bfbf;
+  }
+
+#top-left-nav{
+    background: inherit;
+}
+
+#profile{
+    height: 130px;
+    margin: 1rem 5rem 1rem 5rem;
+    
+}
+
+#form{
+    border: solid 0.1rem;
+    border-radius: 6rem;
+    text-align: center;
+    align-items: center;
+    padding: 90px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: cursive;
+    background-color: #111;
+    color: #e0ebe8;
+    margin-top: 10em;
+    margin-bottom: 10em;
+    background-position: 0px;
+    background-size: 700px 1000em;
+}
+
+label{
+    float: left;
+}
+
+.Name{
+    float: right;
+    margin-right: 30px;
+    margin-top: -70px;
+}
+
+.Date{
+    float: right;
+    margin-right: 30px;
+    margin-top: -70px;
+}
+
+#Adress{
+    padding: 15px 30px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 1500px;
+    font-family: cursive;
+    border: none;
+}
+
+#Name{
+    padding: 15px 30px;
+    border-radius: 20px;
+    float: right;
+    margin-left: 1000px;
+    margin-top: -50px;
+    font-family: cursive;
+    border: none;
+}
+
+#Phone{
+    padding: 15px 30px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 1500px;
+    font-family: cursive;
+    border: none;
+}
+
+#Date{
+    padding: 15px 30px;
+    border-radius: 20px;
+    float: right;
+    margin-left: 1000px;
+    margin-top: -50px;
+    font-family: cursive;
+    border: none;
+}
+
+#textbox{
+    padding: 15px 30px 15px 100px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 1500px;
+    font-family: cursive;
+    border: none;
+}
+
+
+
+#submit{
+    background-color: white;
+    border: none;
+    padding: 10px 150px;
+    margin-top: 50px;
+    border-radius: 60rem;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 500;
+    color: #111;
+}
+
+a:hover{
+    color: ;
+}

@@ -1,0 +1,144 @@
+body{
+    font-size: 14px;
+}
+
+#top{
+    background: #e0ebe8;
+}
+
+#top-right-nav{
+    float: right;
+    background: inherit;
+    margin-top: -8rem;
+}
+
+ul{
+    margin-right: 10rem;
+    text-decoration: none;
+}
+
+#top-right-nav ul li{
+    display: inline-block;
+    margin-right: 4rem;
+    font-family: cursive;
+    color: #66bfbf;
+  }
+
+#top-left-nav{
+    background: inherit;
+}
+
+#profile{
+    height: 130px;
+    margin: 1rem 5rem 1rem 5rem;
+    
+}
+
+/* #transition-cloud-left{
+    left: -6.5em;
+    bottom: 5em;
+    position: absolute;
+    background: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/ui/cloud.svg) top left no-repeat;
+    width: 150px;
+    height: 45px;
+}
+#transition-cloud-right{
+right: -5em;
+    bottom: 5em;
+}
+#title .cloud {
+    position: absolute;
+    background: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/ui/cloud.svg) top left no-repeat;
+    width: 150px;
+    height: 45px;
+} */
+
+#home-mid{
+    background: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/ui/cloud.svg) top left no-repeat;
+}
+
+img{
+    text-align: center;
+}
+
+#mountain{
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+#notes{
+    height: 100px;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 90px;
+    margin-bottom: -50px;
+}
+
+hr{
+    color: rgb(219, 219, 219);
+    border: solid 5px;
+    border-style: dotted;
+    height: 6px;
+    border-radius: 5rem;
+    width: 5%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+   
+
+}
+
+#new{
+    height: 500px;
+    vertical-align: center;
+    margin-left: 350px;
+}
+
+#lead{
+    font-size: 2.9em;
+    font-weight: 300;
+    margin: 0 0 1em 0;
+    line-height: 1.4;
+    color: #545454;
+    text-align: justify;
+    margin-left: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body{
+    font-size: 1.5em;
+    margin: 0 0 1.5em 0;
+    font-weight: 300;
+    color: #545454;
+    text-align: justify;
+    margin-left: 350px;
+    margin-top: -20px;
+    font-family: cursive;
+}
+
+.notes h2{
+    color: #29685a;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 400;
+    font-family: cursive;
+    line-height: 1.1;
+}
+
+.notes h3{
+    color: #45b29a;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2em;
+    line-height: 1.1;
+    font-family: cursive;
+    margin-top: -20px;
+}
+
+#i-can-help{
+    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 400;
+    color: #1e836c;
+    font-family:  brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}

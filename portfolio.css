@@ -1,0 +1,162 @@
+body{
+    font-size: 14px;
+}
+
+#top{
+    background: #e0ebe8;
+    padding-top: 0;
+}
+
+#home-top{
+    background: inherit;
+}
+
+#top-right-nav{
+    float: right;
+    background: inherit;
+    margin-top: -8rem;
+}
+
+ul{
+    margin-right: 10rem;
+    text-decoration: none;
+}
+
+#top-right-nav ul li{
+    display: inline-block;
+    margin-right: 4rem;
+    font-family: cursive;
+    color: #66bfbf;
+  }
+
+#top-left-nav{
+    background: inherit;
+}
+
+#profile{
+    height: 130px;
+    margin: 1rem 5rem 1rem 5rem;
+    
+}
+
+#home-mid{
+    background: url(https://web.archive.org/web/20180901170713im_/http://seanhalpin.io/assets/img/ui/cloud.svg) no-repeat;
+}
+
+#im-elizabeth{
+    text-align: center;
+    font-family: 'Lucida Calligraphy';
+    color: #66bfbf;
+    font-size: 40px;
+    margin: 9.5rem;
+}
+
+#more-on-elizabeth{
+    text-align: center;
+    color: #66bfbf;
+    font-size: 25px;
+    font-family: cursive;
+    margin-top: -6em;
+}
+
+#mountain{
+    margin-top: 5rem;
+    text-align: center;
+    width: 100%;
+}
+
+#hi{
+text-align: center;
+margin: 8rem 38.4rem 0  ;
+height: 180px;
+}
+
+h3{
+    text-align: center;
+    padding: 0.5em;
+    color: #45b29a;
+    font-size: 2em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;;
+    font-weight: 500;
+}
+
+p{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0 0 10px 0;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+   padding-bottom: 20px;
+   color: #545454;;
+}
+
+hr{
+    color: rgb(219, 219, 219);
+    border: solid 5px;
+    border-style: dotted;
+    height: 6px;
+    border-radius: 5rem;
+    width: 5%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+   
+
+}
+
+#what-i-can-do{
+    text-align: center;
+    height: 180px;
+    margin-left: 300px;
+}
+
+#what-i-do{
+    text-align: center;
+    font-size: 3.8em;
+    color: #45b29a;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+#iterative{
+    border-radius: 60px;
+    width: 77px;
+    height: 77px;
+    background: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/content/home/what-i-do/design-icons-vert.png) no-repeat;
+    background-color: #e0ebe8;
+    margin-left: 1000px;
+    margin-top: -130px;
+}
+
+#what-you-need{
+    height: 180px;
+    float: right;
+    display: block;
+    margin-right: 300px;
+    margin-top: -50px;
+}
+
+#iteration{
+    background-image: url(https://web.archive.org/web/20180901170713im_/http…/img/content/home/what-i-do/design-icons-vert.png);
+    width: 77px;
+    height: 77px;
+    border-radius: 60px;
+    background: #e0ebe8;
+    border: 0px;
+    margin-left: 385px;
+    margin-top: 130px;
+}
+
+h2{
+    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 400;
+    color: #1e836c;
+    font-family:  brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+
